@@ -1,0 +1,26 @@
+<!-- Social Media Section -->
+<section id="social" class="py-12 bg-white dark:bg-gray-800">
+  <div class="container mx-auto px-6 text-center">
+    <h2 class="text-2xl font-bold mb-4">Connect with Me</h2>
+    <div class="flex justify-center space-x-4">
+      <!-- GitHub -->
+      <a href="https://github.com/yourusername" target="_blank"
+         class="p-3 rounded-full bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 transition">
+        <!-- GitHub SVG omitted for brevity -->
+      </a>
+      <!-- LinkedIn -->
+      <a href="https://linkedin.com/in/yourusername" target="_blank"
+         class="p-3 rounded-full bg-gray-200 dark:bg-gray-700 hover:bg-blue-100 dark:hover:bg-blue-800 transition">
+        <!-- LinkedIn SVG omitted -->
+      </a>
+      <!-- Instagram -->
+      <a href="https://instagram.com/yourusername" target="_blank"
+         class="p-3 rounded-full bg-gray-200 dark:bg-gray-700 hover:bg-pink-100 dark:hover:bg-pink-800 transition">
+        <svg class="w-6 h-6 text-pink-500 dark:text-pink-300" fill="currentColor" viewBox="0 0 24 24">
+          <!-- Instagram icon path -->
+          <path d="M7.75 2h8.5A5.75 5.75 0 0 1 22 7.75v8.5A5.75 5.75 0 0 1 16.25 22h-8.5A5.75 5.75 0 0 1 2 16.25v-8.5A5.75 5.75 0 0 1 7.75 2zM12 7a5 5 0 1 0 0 10 5 5 0 0 0 0-10zm6.5-1.75a1.25 1.25 0 1 0 0 2.5 1.25 1.25 0 0 0 0-2.5zM12 9.5a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5z"/>
+        </svg>
+      </a>
+    </div>
+  </div>
+</section>
